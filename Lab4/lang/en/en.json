@@ -1,0 +1,8 @@
+{
+    "greeting": "Hello %1, What a beautiful day. Server current date and time is",
+    "missingName": "Please provide a name, e.g. ?name=John",
+    "missingText": "Please provide text, e.g. ?text=BCIT",
+    "appended": "Appended \"%1\" to %2",
+    "fileNotFound": "404 Error: File \"%1\" not found",
+    "notFound": "404 Error: Page not found"
+}
